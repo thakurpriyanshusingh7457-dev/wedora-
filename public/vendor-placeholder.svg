@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Wedora vendor image placeholder">
+ <rect width="800" height="500" fill="#fbf6f3"/>
+ <circle cx="400" cy="190" r="62" fill="#f4dfe5"/>
+ <path d="M360 200l27-28 24 23 17-16 30 36H360z" fill="#b95e76" opacity=".8"/>
+ <circle cx="420" cy="174" r="7" fill="#b95e76"/>
+ <text x="400" y="300" font-family="Georgia,serif" font-size="48" fill="#91445a" text-anchor="middle">Wedora ♥</text>
+ <text x="400" y="345" font-family="Arial,sans-serif" font-size="20" fill="#776b71" text-anchor="middle">Vendor photo unavailable</text>
+</svg>
